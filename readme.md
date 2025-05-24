@@ -3,4 +3,4 @@
 
 <br>
 <br>
-![polos](./gambar/Screenshot_2025-05-24_05-05-49.png)
+![hasil](./gambar/Screenshot_2025-05-24_05-05-49.png)

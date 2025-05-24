@@ -1,0 +1,14 @@
+{
+  "name": "mini",
+  "version": "1.0.0",
+  "description": "mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "zcky"
+  ],
+  "author": "zcky",
+  "license": "ISC"
+}

@@ -3,4 +3,4 @@
 
 <br>
 <br>
-![hasil](./gambar/Screenshot_2025-05-24_05-05-49.png)
+![hasil](./gambar/gambar2.png)
